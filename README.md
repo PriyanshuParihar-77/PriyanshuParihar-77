@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/priyanshuparihar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshuparihar/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100087466490117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100087466490117" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/zui_k23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zui_k23/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/juikamone/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/juikamone/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Pinchu_07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/priyanshuparihar/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu-parihar&show_icons=true&locale=en&layout=compact" alt="priyanshu-parihar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jui-kamone&show_icons=true&locale=en" alt="priyanshu-parihar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-parihar&show_icons=true&locale=en" alt="priyanshu-parihar" /></p>
