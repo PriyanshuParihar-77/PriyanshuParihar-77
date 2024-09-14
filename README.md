@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><h1 align="center">Hi 👋, I'm Jui Kamone</h1>
+-->
+<h1 align="center">Hi 👋, I'm Priyanshu Parihar</h1>
 <h3 align="center">A passionate Software developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jui-kamone" alt="jui-kamone" /></a> </p>
