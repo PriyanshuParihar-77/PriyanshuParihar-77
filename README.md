@@ -1,6 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PriyanshuParihar-77/PriyanshuParihar-77" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=heyyy+!!!;I+am+Priyanshu+Parihar." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" style="display: flex; justify-content: center; align-items: center; height: 100vh; text-align: center;">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=heyyy+!!!;I+am+Priyanshu+Parihar." 
+         alt="Typing SVG">
+</a>
+
 
 <h3 align="center">A Passionate Computer Science Engineer </h3>
 
