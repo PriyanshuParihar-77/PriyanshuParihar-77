@@ -16,21 +16,21 @@
  🔭 I’m currently working on **web applications and cloud**
  
 
- 💬 Lets connect and create something, ask me **about anything [here](https://github.com/shricastic/shricastic/issues)**
+ 💬 Let's connect and create something! Ask me **about anything [here](https://github.com/PriyanshuParihar-77/PriyanshuParihar-77/issues)**  
 
- ⚡ Fun fact **The first computer virus was created in 1983**
+⚡ Fun fact **The first computer bug was literally a bug! In 1947, Grace Hopper found a moth stuck in a relay of the Harvard Mark II computer and called it "debugging"! 🦋😂**  
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:shricse07@gmail.com">
+  <a href="mailto:priyanshuparihar77@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/shricastic" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/priyanshuparihar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/shricastic" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" /> 
+  <a href="https://github.com/PriyanshuParihar-77" target="_blank">
+     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
   </a>
 </div>
 
