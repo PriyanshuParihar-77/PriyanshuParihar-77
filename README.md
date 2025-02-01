@@ -51,10 +51,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shricastic/shricastic/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PriyanshuParihar-77/PriyanshuParihar-77/output/github-contribution-grid-snake.svg" />
   
   <br/><br/>
 </div>
+
 
 <hr/>
 
